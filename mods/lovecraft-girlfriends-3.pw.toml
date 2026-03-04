@@ -1,0 +1,13 @@
+name = "LoveCraft - Girlfriends <3"
+filename = "girlfriends-2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ITWQSHXN/versions/KWXL4k3c/girlfriends-2.1.jar"
+hash-format = "sha512"
+hash = "dc551626b260ad4b4fb16962384b726097988614924dcd13ee0316c58fd770c77b42c47b91ded37656ce010d04a4bb5a538a735fa92ec203a20f56e7632d1b74"
+
+[update]
+[update.modrinth]
+mod-id = "ITWQSHXN"
+version = "KWXL4k3c"

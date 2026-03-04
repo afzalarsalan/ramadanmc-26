@@ -1,0 +1,13 @@
+name = "Ramadan Minecraft 26"
+author = "Arsalan and Bros"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "17edfd797cea97cf3257b8110849a2f3b9b0b3b41466722aa6b814a83b24a677"
+
+[versions]
+forge = "47.4.16"
+minecraft = "1.20.1"

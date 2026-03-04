@@ -1,0 +1,13 @@
+name = "Ethan's Cologne Experience"
+filename = "Ethanscolognemod_1.20.1_2.0T.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UjgnTvRe/versions/m5UBLuMa/Ethanscolognemod_1.20.1_2.0T.jar"
+hash-format = "sha512"
+hash = "bf93a1ae981676e7a241275949fa7b03c8a8afe43235ea9a119c4fae5ad58d92017109f05080d705b3ffa06455f33559e93fc583f59e249d5e10e5d36ea2460e"
+
+[update]
+[update.modrinth]
+mod-id = "UjgnTvRe"
+version = "m5UBLuMa"

@@ -1,0 +1,13 @@
+name = "Enchantments Overhaul"
+filename = "enchantments_overhaul-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1S1YOSXk/versions/oMjYAzM4/enchantments_overhaul-1.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "1602cb30223075cb2b052c02df66ef322be5dc3e726b89bdccdca80d597167119773084cc8c863ef639a0decb6d9296ce1dbd544020a26184435a45220845d9c"
+
+[update]
+[update.modrinth]
+mod-id = "1S1YOSXk"
+version = "oMjYAzM4"
