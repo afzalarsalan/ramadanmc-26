@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bluemap/core.conf"
+hash = "76a64aaee35c17e4ee99fc24f726834cd3e1339c60ccf536687a998b53cd1dc2"
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "f96bce116f03cbd4d349cac06c7e4da4976b1cefa4fe14b0427bf867d5ecc578"
 metafile = true
