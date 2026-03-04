@@ -1,6 +1,6 @@
 name = "Better Cave Dweller"
 filename = "Better Cave Dweller-1.20.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/L5PDxO3G/versions/PODlMxjc/Better%20Cave%20Dweller-1.20.1.jar"

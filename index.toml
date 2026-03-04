@@ -21,7 +21,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-cave-dweller.pw.toml"
-hash = "30af298907cb4dccd2ab1c0ef2d1535507936188073b22c7abf87c3172c1f16a"
+hash = "70b50b22caf2cf0847f683f48e2f604a722a391914a86af8b367fe0f19fd81cd"
 metafile = true
 
 [[files]]
